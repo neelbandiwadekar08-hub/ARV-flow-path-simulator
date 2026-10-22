@@ -10,6 +10,9 @@ An interactive simulator that visualizes how an Automatic Recirculation Valve (A
 
 🔗 [Try the simulator here](https://pump-valve-video-animator.ai.studio/)
 
+<img width="1084" height="907" alt="Screenshot 2026-10-22 223421_edited" src="https://github.com/user-attachments/assets/59656243-3c22-4dd0-a9d5-8d7f63b3713f" />
+
+
 ## Why I Built This
 
 Automatic Recirculation Valves are a core piece of centrifugal pump protection in mechanical and process engineering: they prevent overheating, cavitation, vibration, and pump damage by making sure a minimum safe flow always passes through the pump, even when downstream demand drops. Static diagrams make this hard to grasp at a glance, so I designed an interactive visualizer that shows the valve's two operating states, and what physically happens in each one, so the mechanism is easy to understand at a glance.
